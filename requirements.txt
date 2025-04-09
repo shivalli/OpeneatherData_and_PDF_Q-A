@@ -1,0 +1,12 @@
+langchain
+langsmith
+qdrant-client
+sentence-transformers
+torch
+pypdf
+streamlit
+requests
+python-dotenv
+langchain_community
+langchain_core
+langchain-groq
